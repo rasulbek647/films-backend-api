@@ -47,7 +47,7 @@
     "rating": "7.9",
     "duration": 162,
     "country": "USA",
-    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODUtY2I0NC00Y2M3LTk1ODctMjUxMDE0MTkyOWJhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6EiRUJnxP2dwZOSVdd0Ka451C8l.jpg",
     "description": "Pandora sayyorasining mahalliy aholisi va insonlar o'rtasidagi hayot-mamot jangi.",
     "highlight": "Yangi dunyo go'zalligi va tabiat uyg'unligi."
   },
@@ -60,7 +60,7 @@
     "rating": "7.7",
     "duration": 100,
     "country": "USA",
-    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU1MDA1MTc4N15BMl5BanBnXkFtZTcwMTcxNDQ3Mg@@._V1_.jpg",
+    "poster_url": "https://image.tmdb.org/t/p/w500/eshEkiG7NmU4ekA8CtpIdYiYufZ.jpg",
     "description": "Las-Vegasdagi bo'ydoqlik kechasidan keyin yo'qolgan do'stlarini qidirayotgan uch nafar og'aynining sarguzashtlari.",
     "highlight": "Las-Vegasdagi dahshatli va kulgili ertalabki kashfiyotlar."
   }
