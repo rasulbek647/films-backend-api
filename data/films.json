@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "title": "Interstellar",
+    "year": 2014,
+    "director": "Christopher Nolan",
+    "rating": "8.7",
+    "duration": 169,
+    "country": "USA",
+    "poster_url": "https://pgsramblings.files.wordpress.com/2015/04/interstellar-featured.jpg&amp;",
+    "description": "Insoniyat uchun yangi uy qidirgan tadqiqotchilar vaqt, muhabbat va jasorat chegaralarini sinovdan o‘tkazadi.",
+    "highlight": "Kosmos, vaqt va oilaviy drama bir kadrda."
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan",
+    "rating": "8.8",
+    "duration": 148,
+    "country": "USA",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "description": "Tushlar ichiga kirib, yashirin ma'lumotlarni o'g'irlash bilan shug'ullanuvchi professional o'g'ri haqida film.",
+    "highlight": "Tush ichidagi tush va unutilmas ong osti sarguzashtlari."
+  },
+  {
+    "id": 3,
+    "category_id": 2,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "rating": "9.0",
+    "duration": 152,
+    "country": "USA",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+    "description": "Betmen Gotem shahrini dahshatga solayotgan yovuz Joker bilan kurashadi.",
+    "highlight": "Qahramonlik va adolat chegaralaridagi buyuk to'qnashuv."
+  },
+  {
+    "id": 4,
+    "category_id": 5,
+    "title": "Avatar",
+    "year": 2009,
+    "director": "James Cameron",
+    "rating": "7.9",
+    "duration": 162,
+    "country": "USA",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODUtY2I0NC00Y2M3LTk1ODctMjUxMDE0MTkyOWJhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+    "description": "Pandora sayyorasining mahalliy aholisi va insonlar o'rtasidagi hayot-mamot jangi.",
+    "highlight": "Yangi dunyo go'zalligi va tabiat uyg'unligi."
+  },
+  {
+    "id": 5,
+    "category_id": 4,
+    "title": "The Hangover",
+    "year": 2009,
+    "director": "Todd Phillips",
+    "rating": "7.7",
+    "duration": 100,
+    "country": "USA",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU1MDA1MTc4N15BMl5BanBnXkFtZTcwMTcxNDQ3Mg@@._V1_.jpg",
+    "description": "Las-Vegasdagi bo'ydoqlik kechasidan keyin yo'qolgan do'stlarini qidirayotgan uch nafar og'aynining sarguzashtlari.",
+    "highlight": "Las-Vegasdagi dahshatli va kulgili ertalabki kashfiyotlar."
+  }
+]

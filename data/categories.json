@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Sci-Fi",
+    "slug": "sci-fi",
+    "description": "Kelajak, kosmos va katta g‘oyalar haqidagi filmlar."
+  },
+  {
+    "id": 2,
+    "name": "Action",
+    "slug": "action",
+    "description": "Jangari, sarguzasht va hayajonli filmlar."
+  },
+  {
+    "id": 3,
+    "name": "Drama",
+    "slug": "drama",
+    "description": "Insoniy his-tuyg'ular va dramatik voqealarga boy filmlar."
+  },
+  {
+    "id": 4,
+    "name": "Comedy",
+    "slug": "comedy",
+    "description": "Kulgili va quvnoq lahzalar taqdim etadigan filmlar."
+  },
+  {
+    "id": 5,
+    "name": "Adventure",
+    "slug": "adventure",
+    "description": "Sarguzasht, yo‘l va kutilmagan voqealarga boy filmlar."
+  }
+]
